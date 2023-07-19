@@ -8,4 +8,4 @@ def mean_calc(x, y):
         count_of_numbers += 1
 
     print("Среднее:", round(sum_of_numbers / count_of_numbers, 2))
-    print("hi")
+    print("бывает")
