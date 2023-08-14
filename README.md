@@ -9,3 +9,4 @@ def mean_calc(x, y):
 
     print("Среднее:", round(sum_of_numbers / count_of_numbers, 2))
     print("бывает")
+test
