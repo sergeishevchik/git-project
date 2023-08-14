@@ -11,3 +11,4 @@ def mean_calc(x, y):
     print("бывает")
  we have redacted this
  vau
+web redacted
