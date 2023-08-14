@@ -11,3 +11,8 @@ def mean_calc(x, y):
     print("бывает")
  we have redacted this
  vau
+web redacted
+ sum_of_numbers, count_of_numbers = 0, 0
+    for i in range(x, y + 1):
+        sum_of_numbers += i
+        count_of_numbers += 1
